@@ -1,6 +1,6 @@
 # Neon Memoir — Android release
 
-Neon Memoir is an Android app from the [8-Bit Oracle](https://8bitoracle.com) archive. Each day it opens one archival image from the Kangxi court (1688–1722). You zoom in fixed steps and find text fragments, labelled ATTESTED (a documented fact with its source) or APOCRYPHAL (from a fictional Jesuit copyist's notebook). Built for the Solana Mobile "Clock In" hackathon.
+Neon Memoir is an Android app from the [8-Bit Oracle](https://8bitoracle.com) archive. Each day it opens one archival image from the Kangxi court (1688–1722). You zoom in fixed steps and find text fragments, labelled ATTESTED (a documented fact with its source) or APOCRYPHAL (from a fictional Jesuit copyist's notebook). Built for the Solana Mobile "Clock In" hackathon on Radiants, and also submitted to the Colosseum World's Fair.
 
 This repository holds the release build only. The source is private.
 
